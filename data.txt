@@ -1,1 +1,3 @@
-123123123;deneme;ikinci
+123456789012;Ürün A;Detay 1
+987654321098;Ürün B;Detay 2
+123123123123;Ürün C;Detay 3
