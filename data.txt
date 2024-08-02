@@ -12,8 +12,8 @@
 391034443;GRA391034443;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA391034443
 414317152;GRA414317152;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA414317152
 430493556;GRA430493556;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA430493556
-497893590;GRA497893590;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA497893590
-497923006;GRA497923006;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA497923006
+479878590;GRA479878590;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA479878590
+487923006;GRA487923006;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA487923006
 517694711;GRA517694711;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA517694711
 536189031;GRA536189031;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA536189031
 536487747;GRA536487747;Moissanite;Hong Kong Lab;7.5 mm;1.50;D;VVS1;Round Brilliant;Excellent;62.0%;58%;35.0°;41°;Medium;None;Excellent;Excellent;None;GRA536487747
